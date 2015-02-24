@@ -1,0 +1,7 @@
+.html { 
+  background: url(http://wallpoper.com/images/00/42/87/35/landscapes-outer_00428735.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
