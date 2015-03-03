@@ -1,0 +1,68 @@
+@font-face {
+    font-family: BoldFont;
+    src: url(Nexa_Bold.otf);
+}
+
+@font-face {
+    font-family: LightFont;
+    src: url(Nexa_Light.otf);
+}
+
+.selector{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color:black;
+  z-index: 1000;
+  
+}
+
+.selector p {
+  color:white;
+  display:inline-block;
+}
+
+#YaddaPhoto{
+  margin-left:20px;
+  margin-top:5px;
+}
+
+#How {
+  margin-left:90px;
+  font-size:14px;
+  }
+  
+#Contact {
+  margin-left:20px;
+  font-size:14px;
+  }
+  
+#Status {
+  margin-left:20px;
+  font-size:14px;
+  }
+  
+.selector h4 {
+  font: 45px BoldFont;
+  color: black;
+  margin-left: 145px;
+  text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+  display:inline-block;
+}
+
+
+.Video {
+    margin-left:250px;
+	margin-top:200px;
+    position:relative;
+}
+ .CoverPhoto {
+margin-top:50px;
+}
+
